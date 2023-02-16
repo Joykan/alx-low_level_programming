@@ -1,4 +1,4 @@
-gcc 6-size.c
+gcc 6-size.c -m32
 #include <stdio.h>
 
 /**
